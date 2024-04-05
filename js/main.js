@@ -3,7 +3,7 @@ $(document).ready(function() {
 
     function ajaxCallBack(fajl, callBackFunction) {
         $.ajax({
-            url: "json/" + fajl + ".json",
+            url: "./json/" + fajl + ".json",
             method: "get",
             dataType: "json",
             success: function(odgovor) {

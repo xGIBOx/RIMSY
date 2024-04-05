@@ -1,0 +1,26 @@
+[
+  {
+    "href": "index.html",
+    "text": "HOME PAGE"
+  },
+  {
+    "href": "shop.html",
+    "text": "SHOP"
+  },
+  {
+    "href": "author.html",
+    "text": "AUTHOR"
+  },
+  {
+    "href": "documentation.pdf",
+    "text": "DOCUMENTATION"
+  }, 
+  {
+    "href": "sitemap.xml",
+    "text": "SITEMAP"
+  },
+  {
+    "href": "rss.xml",
+    "text": "RSS"
+  }
+]

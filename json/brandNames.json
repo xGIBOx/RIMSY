@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Aodhan",
+    "img": "brand1.jpg"
+  },
+  {
+    "name": "BBS",
+    "img": "brand2.png"
+  },
+  {
+    "name": "Fitment Industries",
+    "img": "brand3.jpg"
+  },
+  {
+    "name": "Kansei",
+    "img": "brand4.jpg"
+  },
+  {
+    "name": "Konig",
+    "img": "brand5.jpg"
+  },
+  {
+    "name": "Michelin",
+    "img": "brand6.jpg"
+  },
+  {
+    "name": "Anovia",
+    "img": "brand7.jpg"
+  },
+  {
+    "name": "Vors",
+    "img": "brand8.jpg"
+  }
+]

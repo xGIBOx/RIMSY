@@ -1,0 +1,32 @@
+[
+  {
+    "name": "RI-S DIAMOND BLACK",
+    "brand": "BBS",
+    "price": {
+      "oldPrice": 5600,
+      "newPrice": 4800
+    },
+    "img": "bbs2.png",
+    "top": false
+  },
+  {
+    "name": "HF6-4 BRONZE",
+    "brand": "VOSSEN",
+    "price": {
+      "oldPrice": 2190,
+      "newPrice": 1990
+    },
+    "img": "vossen6.jpg",
+    "top": true
+  },
+  {
+    "name": "LM SILVER MACHINED",
+    "brand": "BBS",
+    "price": {
+      "oldPrice": 4200,
+      "newPrice": 3500
+    },
+    "img": "bbs4.png",
+    "top": false
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "image": "accordReview",
+    "text": "\"ENKEI TS-5 Black, black shiny rims on my sedan, just perfection! I recommend this to anybody who wants to make it car more beautiful.\"",
+    "name": "Jay Mafield",
+    "job": "NASCAR driver",
+    "klasa": "prev"
+    
+  },
+  {
+    "id": 2,
+    "image": "hondaReview",
+    "text": "\"KANSEI ASTRO Hypersilver, this rim is made for every hot hatch out there on the streets. I love it!\"",
+    "name": "Fredrick Bottas",
+    "job": "F1 driver",
+    "klasa": "activeImg"
+  },
+  {
+    "id": 3,
+    "image": "subaruReview",
+    "text": "\"F1R F29 Gold rims, perfect for any Subar out there on the market. Costs around 900$, great for every build!\"",
+    "name": "Kjoto Yokohama",
+    "job": "Member of Drift X",
+    "klasa": "next"
+  }
+]

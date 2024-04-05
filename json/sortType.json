@@ -1,0 +1,26 @@
+[
+  {
+    "value": "0",
+    "text": "SORT BY..."
+  },
+  {
+    "value": "most-popular",
+    "text": "MOST POPULAR"
+  },
+  {
+    "value": "name-az",
+    "text": "NAME A-Z"
+  },
+  {
+    "value": "name-za",
+    "text": "NAME Z-A"
+  },
+  {
+    "value": "price-asc",
+    "text": "ASC BY PRICE"
+  },
+  {
+    "value": "price-desc",
+    "text": "DESC BY PRICE"
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "id": 1,
+    "image": "anovia1.jpg",
+    "name": "ANOVIA ELDER BRUSHED",
+    "brand": 1,
+    "price": {
+      "oldPrice": 1080,
+      "newPrice": 890
+    },
+    "rating": 5,
+    "collection": 1,
+    "categoryId": [1, 2]
+  },
+  {
+    "id": 2,
+    "image": "kansei1.jpg",
+    "name": "KANSEI TANDEM GRAY",
+    "brand": 4,
+    "price": {
+      "oldPrice": 1440,
+      "newPrice": 1210
+    },
+    "rating": 4,
+    "collection": 1,
+    "categoryId": [2, 3]
+  },
+  {
+    "id": 3,
+    "image": "enkei1.jpg",
+    "name": "ENKEI TSV BRONZE",
+    "brand": 3,
+    "price": {
+      "oldPrice": null,
+      "newPrice": 1075.08
+    },
+    "rating": 3,
+    "collection": 2,
+    "categoryId": [1, 4]
+  },
+  {
+    "id": 4,
+    "image": "anovia2.jpg",
+    "name": "ANOVIA KINETIC RODIN",
+    "brand": 1,
+    "price": {
+      "oldPrice": 1100,
+      "newPrice": 1420
+    },
+    "rating": 5,
+    "collection": 1,
+    "categoryId": [1]
+  },
+  {
+    "id": 5,
+    "image": "avid1.jpg",
+    "name": "AVID1 AV6 BRONZE",
+    "brand": 2,
+    "price": {
+      "oldPrice": 864.56,
+      "newPrice": 750
+    },
+    "rating": 3,
+    "collection": 1,
+    "categoryId": [2, 4]
+  },
+  {
+    "id": 6,
+    "image": "avid2.jpg",
+    "name": "AVID1 AV20 BRONZE",
+    "brand": 2,
+    "price": {
+      "oldPrice": null,
+      "newPrice": 1700
+    },
+    "rating": 4,
+    "collection": 2,
+    "categoryId": [1, 3]
+  },
+  {
+    "id": 7,
+    "image": "kansei2.jpg",
+    "name": "KANSEI ASTRO GRAY",
+    "brand": 4,
+    "price": {
+      "oldPrice": null,
+      "newPrice": 1380
+    },
+    "rating": 2,
+    "collection": 2,
+    "categoryId": [3]
+  },
+  {
+    "id": 8,
+    "image": "enkei2.jpg",
+    "name": "ENKEI TS-5 BLACK",
+    "brand": 3,
+    "price": {
+      "oldPrice": 1019.40,
+      "newPrice": 870
+    },
+    "rating": 4,
+    "collection": 1,
+    "categoryId": [2]
+  },
+
+  {
+    "id": 9,
+    "image": "anovia3.jpg",
+    "name": "ANOVIA ELDER RAVEN",
+    "brand": 1,
+    "price": {
+      "oldPrice": 1040,
+      "newPrice": 950
+    },
+    "rating": 5,
+    "collection": 1,
+    "categoryId": [4]
+  },
+  {
+    "id": 10,
+    "image": "enkei3.jpg",
+    "name": "ENKEI RPF1 SILVER",
+    "brand": 3,
+    "price": {
+      "oldPrice": null,
+      "newPrice": 1537.20
+    },
+    "rating": 3,
+    "collection": 1,
+    "categoryId": [1, 2]
+  },
+
+  {
+    "id": 11,
+    "image": "kansei3.jpg",
+    "name": "KANSEI ROKU GRAY",
+    "brand": 4,
+    "price": {
+      "oldPrice": 1390,
+      "newPrice": 1200
+    },
+    "rating": 5,
+    "collection": 2,
+    "categoryId": [2, 4]
+  },
+  {
+    "id": 12,
+    "image": "enkei4.jpg",
+    "name": "ENKEI TSR-X",
+    "brand": 3,
+    "price": {
+      "oldPrice": null,
+      "newPrice": 1090
+    },
+    "rating": 4,
+    "collection": 2,
+    "categoryId": [3, 4]
+  },
+
+  {
+    "id": 13,
+    "image": "anovia4.jpg",
+    "name": "ANOVIA TITAN DECO DIRECTIONAL",
+    "brand": 1,
+    "price": {
+      "oldPrice": 840,
+      "newPrice": 700
+    },
+    "rating": 3,
+    "collection": 1,
+    "categoryId": [1, 4]
+  },
+  {
+    "id": 14,
+    "image": "avid3.jpg",
+    "name": "AVID1 AV6 GLOSS BLACK",
+    "brand": 2,
+    "price": {
+      "oldPrice": null,
+      "newPrice": 758.44
+    },
+    "rating": 5,
+    "collection": 2,
+    "categoryId": [2]
+  },
+  {
+    "id": 15,
+    "image": "bbs1.jpg",
+    "name": "BBS RI-S DIAMOND BLACK",
+    "brand": 5,
+    "price": {
+      "oldPrice": 5600,
+      "newPrice": 5100
+    },
+    "rating": 5,
+    "collection": 2,
+    "categoryId": [3, 2]
+  },
+  {
+    "id": 16,
+    "image": "vossen1.jpg",
+    "name": "VOSSEN HF7 GLOSS BLACK",
+    "brand": 6,
+    "price": {
+      "oldPrice": 3200,
+      "newPrice": 3000
+    },
+    "rating": 4,
+    "collection": 1,
+    "categoryId": [3, 4]
+  },
+  {
+    "id": 17,
+    "image": "bbs2.jpg",
+    "name": "BBS LMR BLACK MACHINED",
+    "brand": 5,
+    "price": {
+      "oldPrice": 7210,
+      "newPrice": 6750
+    },
+    "rating": 5,
+    "collection": 1,
+    "categoryId": [1]
+  },
+  {
+    "id": 18,
+    "image": "vossen2.jpg",
+    "name": "VOSSEN HF5 GRAY",
+    "brand": 6,
+    "price": {
+      "oldPrice": 2180,
+      "newPrice": 1890
+    },
+    "rating": 5,
+    "collection": 1,
+    "categoryId": [4, 2]
+  },
+  {
+    "id": 19,
+    "image": "vossen3.jpg",
+    "name": "VOSSEN HF3 GLOSS GRAY",
+    "brand": 6,
+    "price": {
+      "oldPrice": 3200,
+      "newPrice": 2950
+    },
+    "rating": 5,
+    "collection": 2,
+    "categoryId": [1, 4]
+  },
+  {
+    "id": 20,
+    "image": "bbs5.jpg",
+    "name": "BBS CHRII HYPERBLACK",
+    "brand": 5,
+    "price": {
+      "oldPrice": 6540,
+      "newPrice": 6200
+    },
+    "rating": 4,
+    "collection": 1,
+    "categoryId": [1, 2, 3]
+  },
+  {
+    "id": 21,
+    "image": "vossen5.jpg",
+    "name": "VOSSEN HF4T SILVER",
+    "brand": 6,
+    "price": {
+      "oldPrice": 4190,
+      "newPrice": 4100
+    },
+    "rating": 3,
+    "collection": 2,
+    "categoryId": [2, 3]
+  }
+]

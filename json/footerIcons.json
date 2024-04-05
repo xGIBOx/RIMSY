@@ -1,0 +1,22 @@
+[
+  {
+    "href": "https://www.instagram.com/",
+    "icon": "square-instagram"
+  },
+  {
+    "href": "https://sr-rs.facebook.com/",
+    "icon": "square-facebook"
+  },
+  {
+    "href": "https://twitter.com/",
+    "icon": "square-twitter"
+  },
+  {
+    "href": "https://rs.linkedin.com/",
+    "icon": "linkedin"
+  },
+  {
+    "href": "https://github.com/",
+    "icon": "square-github"
+  }
+]
